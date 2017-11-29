@@ -1,0 +1,125 @@
+{
+    "Students": [
+        {
+            "Grades": [
+                3, 
+                6, 
+                5, 
+                2, 
+                5, 
+                5, 
+                6, 
+                5, 
+                5
+            ], 
+            "Attendance": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1, 
+                1, 
+                1, 
+                1, 
+                1, 
+                1, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "Surname": "Nowak", 
+            "Name": "Kasia", 
+            "Class": "1b"
+        }, 
+        {
+            "Grades": [
+                4, 
+                5, 
+                5, 
+                5, 
+                5, 
+                5, 
+                5, 
+                6, 
+                5, 
+                6, 
+                5, 
+                6, 
+                5, 
+                6
+            ], 
+            "Attendance": [
+                0, 
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "Surname": "Burak", 
+            "Name": "Asia", 
+            "Class": "2b"
+        }, 
+        {
+            "Grades": [
+                2, 
+                2, 
+                2, 
+                3, 
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "Attendance": [
+                0, 
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "Surname": "Chleb", 
+            "Name": "Damian", 
+            "Class": "3a"
+        }, 
+        {
+            "Grades": [
+                4, 
+                5, 
+                4, 
+                5, 
+                1
+            ], 
+            "Attendance": [
+                0, 
+                1, 
+                0, 
+                1, 
+                1
+            ], 
+            "Surname": "Markowski", 
+            "Name": "Marek", 
+            "Class": "1a"
+        }, 
+        {
+            "Grades": [
+                4, 
+                4, 
+                4, 
+                4, 
+                5, 
+                5
+            ], 
+            "Attendance": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "Surname": "Motyka", 
+            "Name": "Ola", 
+            "Class": "2d"
+        }
+    ]
+}
